@@ -12,13 +12,13 @@ The centre of gravity should be higher than the centre of pressure.
 ### Centre of mass
 The centre of mass of the rocket and it's component parts lie on the axis of symmetry, wich is the roll axis of the rocket. We define it along the roll axis. It is defined by: 
 
-![Centre of Mass](img\centreofmass.png)
+![Centre of Mass](img/centreofmass.png)
 where r is the sistance from centre and dm is mass along roll axis M is the total mass of the rocket
 
 ### Moment of inertia
 Similarly the moment of inertia of the rocket about axis of rotation is defined as:
 
-![Moment of inertia](img\momentofinteria.png)
+![Moment of inertia](img/momentofinteria.png)
 
 where r is the distance of an infinitesimal volume with mass dm from the axis of rotation.
 
@@ -30,7 +30,7 @@ For more information check out this [website](https://estesrockets.com/wp-conten
 ### Stability margin
 Stability is usually judged by the stability margin (SM), where the distance between the center of gravity and center of pressure is divided by the diameter d of the rocket body,
 
-![Stability margin](img\stabilitymargin.png)
+![Stability margin](img/stabilitymargin.png)
 
 The centre of gravity is dependant on the burn tme. During th launch the center of gravity moves to the frint of the rocket. The centre of pressure is dependant on the velocity in air.
 
@@ -70,7 +70,7 @@ This had an average thrust of 0.464N and a max thrust of 3.21N
 The burn time was approximate 0.64s and the launch mass was 1.2g.
 Its motor thrust curve is given by
 
-![Mircomaxx2 motor thrust curve](img\micromaxx2.png)
+![Mircomaxx2 motor thrust curve](img/micromaxx2.png)
 
 After we ran our simulation we found out that this motor would give us:
 - apogee of 0.036m 
@@ -80,14 +80,14 @@ After we ran our simulation we found out that this motor would give us:
 
 Our simulation results were
 
-![Simulation for micromaxx2](img\simulationmicromaxx2.JPG)
+![Simulation for micromaxx2](img/simulationmicromaxx2.JPG)
 
 2. C6-5
 This had an average thrust of 4N and a max thrust of 11.6N
 The burn time was approximate 1.86s and the launch mass was 22g.
 Its motor thrust curve is given by
 
-![Mircomaxx2 motor thrust curve](img\c65.png)
+![Mircomaxx2 motor thrust curve](img/c65.png)
 
 After we ran our simulation we found out that this motor would give us:
 - apogee of 91.1m 
@@ -97,7 +97,7 @@ After we ran our simulation we found out that this motor would give us:
 
 Our simulation results were
 
-![Simulation for micromaxx2](img\simulationc65.JPG)
+![Simulation for micromaxx2](img/simulationc65.JPG)
 
 ## Modelling the rocket
 To get the most accurate model, you should weigh every component. And once components are assembled, you should weigh each section to check your work, comparing it to OpenRocket's calculated masses
