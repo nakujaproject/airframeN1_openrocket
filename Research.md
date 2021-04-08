@@ -104,4 +104,13 @@ Our simulation results were
 ![Simulation for micromaxx2](img/simulationc65.JPG)
 
 ## Modelling the rocket
+
 To get the most accurate model, you should weigh every component. And once components are assembled, you should weigh each section to check your work, comparing it to OpenRocket's calculated masses
+
+![E15-7 Simulation results](img\E15-7simulation.png)
+
+![Nakuja N1 Motor](img\NakujaMotor.png)
+
+![Simulation problem encountered](img\simulationProblem.png)
+
+![Simulation Results](img\simulationResults.png)

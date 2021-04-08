@@ -21,7 +21,7 @@
             <Stage3Mass>0.0</Stage3Mass>
             <Stage2Mass>0.0</Stage2Mass>
             <Stage1Mass>0.0</Stage1Mass>
-            <Stage3CG>274.1576659449045</Stage3CG>
+            <Stage3CG>289.3355411150375</Stage3CG>
             <Stage2CGAlone>0.0</Stage2CGAlone>
             <Stage1CGAlone>0.0</Stage1CGAlone>
             <Stage321CG>0.0</Stage321CG>
@@ -83,9 +83,9 @@
                             <Density>0.0</Density>
                             <Material></Material>
                             <Name>Shock cord</Name>
-                            <KnownCG>110.00000000000004</KnownCG>
+                            <KnownCG>143.00000000000009</KnownCG>
                             <UseKnownCG>1</UseKnownCG>
-                            <Xb>110.00000000000004</Xb>
+                            <Xb>143.00000000000009</Xb>
                             <CalcMass>0.0</CalcMass>
                             <CalcCG>0.0</CalcCG>
                             <DensityType>0</DensityType>
@@ -140,13 +140,13 @@
                             <RadialLoc>0.0</RadialLoc>
                             <RadialAngle>0.0</RadialAngle>
                             <LocationMode>0</LocationMode>
-                            <Len>20.0</Len>
+                            <Len>35.0</Len>
                             <FinishCode>0</FinishCode>
                             <SerialNo>5</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
                         <MassObject>
-                            <KnownMass>500.0</KnownMass>
+                            <KnownMass>300.0</KnownMass>
                             <Density>0.0</Density>
                             <Material></Material>
                             <Name>Altimeter</Name>
@@ -230,7 +230,7 @@
                     <SerialNo>9</SerialNo>
                     <OD>56.6</OD>
                     <ID>53.00000000000001</ID>
-                    <IsMotorMount>1</IsMotorMount>
+                    <IsMotorMount>0</IsMotorMount>
                     <MotorDia>53.00000000000001</MotorDia>
                     <EngineOverhang>0.0</EngineOverhang>
                     <IsInsideTube>0</IsInsideTube>
@@ -293,7 +293,7 @@
                             <Name>Inner Tube</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
-                            <Xb>-5.0</Xb>
+                            <Xb>-0.0</Xb>
                             <CalcMass>21.237166338267027</CalcMass>
                             <CalcCG>50.0</CalcCG>
                             <DensityType>0</DensityType>
@@ -312,25 +312,25 @@
                             <AttachedParts/>
                         </BodyTube>
                         <Ring>
-                            <KnownMass>2.8338931546320132E-14</KnownMass>
+                            <KnownMass>28.680384732784628</KnownMass>
                             <Density>1300.0</Density>
                             <Material>PLA</Material>
-                            <Name>Centering ring</Name>
+                            <Name>Engine block</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
-                            <Xb>30.0</Xb>
-                            <CalcMass>2.8338931546320132E-14</CalcMass>
-                            <CalcCG>16.0</CalcCG>
+                            <Xb>100.0</Xb>
+                            <CalcMass>28.680384732784628</CalcMass>
+                            <CalcCG>5.0</CalcCG>
                             <DensityType>0</DensityType>
                             <RadialLoc>0.0</RadialLoc>
                             <RadialAngle>0.0</RadialAngle>
                             <LocationMode>2</LocationMode>
-                            <Len>32.0</Len>
+                            <Len>10.0</Len>
                             <FinishCode>0</FinishCode>
                             <SerialNo>13</SerialNo>
                             <OD>53.00000000000001</OD>
-                            <ID>53.0</ID>
-                            <UsageCode>0</UsageCode>
+                            <ID>0.0</ID>
+                            <UsageCode>2</UsageCode>
                             <AutoSize>0</AutoSize>
                         </Ring>
                     </AttachedParts>
