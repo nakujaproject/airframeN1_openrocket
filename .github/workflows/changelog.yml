@@ -32,4 +32,4 @@ jobs:
           body: ${{ steps.changelog.outputs.changes }}
 
       - name: Gitmoji Changelog Action
-        uses: MarkLyck/gitmoji-changelog-action@1.0.2
+        uses: MarkLyck/gitmoji-changelog-action@v1.0.0
