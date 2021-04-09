@@ -31,5 +31,13 @@ jobs:
           release_name: Release ${{ github.ref }}
           body: ${{ steps.changelog.outputs.changes }}
 
-      - name: Gitmoji Changelog Action
-        uses: MarkLyck/gitmoji-changelog-action@1.0.0
+      - name: Update Changelog
+        uses: AlexxNB/chalogen@master
+        with:
+          title: AIRFRAME OPENROCKET CHANGELOG
+        
+      - name: Commit Changelog to repository
+        uses: stefanzweifel/git-auto-commit-action@v4
+        with:
+          commit_message: 'docs(Changelog): Update Changelog'
+          file_pattern: CHANGELOG.md
