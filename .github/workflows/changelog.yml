@@ -28,3 +28,8 @@ jobs:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: ${{ steps.changelog.outputs.changes }}
+
+      - name: Generate CHANGELOG
+        uses: tj-actions/github-changelog-generator@v1.3
+        with:
+          output: 'CHANGELOG.md'
