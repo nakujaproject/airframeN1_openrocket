@@ -1,3 +1,2 @@
-# airframe_openrocket
+# AIRFRAME OPENROCKET CHANGELOG
 
-## Release: {{ GITHUB_REF }}
