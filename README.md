@@ -54,3 +54,9 @@ git clone https://github.com/nakujaproject/N1-motor.git
 5. If you want to use the N1 motors created by the Nakuja Propulsion team, go to general settings then under the user defined curves add `N1-motor\test` directory, that we have just cloned, inside there.
 
 ![Motor configurations](img/motorConfig.png)
+
+## Progress
+
+You can check the current progress at [here](currentProgress.md). Our entire progress report can also be found [here](entireProgress.md).
+
+Also, check out changelog for the stepwise version on our progess at [CHANGELOG.md](CHANGELOG.md)
