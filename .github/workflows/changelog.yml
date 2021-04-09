@@ -39,7 +39,6 @@ jobs:
       - name: Commit Changelog to repository
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
-          ref: ${{ github.head_ref }}
           # Optional options appended to `git-push`
           # See git-push documentation for details: https://git-scm.com/docs/git-push#_options
           push_options: '--force'
