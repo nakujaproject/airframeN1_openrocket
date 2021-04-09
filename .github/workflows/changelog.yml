@@ -6,43 +6,25 @@ on:
       - '*'
 
 jobs:
-  create-changelog:
+  create-release:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout locally
+      - name: Checkout
         uses: actions/checkout@v2
-        if: ${{ env.ACT }}
-        with:
-          path: "tag-changelog"
-      - name: Checkout GitHub
-        uses: actions/checkout@v2
-        if: ${{ !env.ACT }}
 
-      - name: Create latest tag
-        uses: EndBug/latest-tag@v1
-        if: ${{ !env.ACT }}
-
-      - name: Create major tag
-        uses: nowactions/update-majorver@v1
-        if: ${{ !env.ACT }}
-        with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-
-      - name: Create changelog
+      - name: Create changelog text
         id: changelog
-        uses: ./
+        uses: loopwerk/conventional-changelog-action@latest
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          exclude_types: other,doc,chore,build
+          exclude_types: other,doc,chore
 
       - name: Create release
         uses: actions/create-release@latest
-        if: ${{ !env.ACT }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         with:
           tag_name: ${{ github.ref }}
           release_name: Release ${{ github.ref }}
           body: ${{ steps.changelog.outputs.changes }}
-          
