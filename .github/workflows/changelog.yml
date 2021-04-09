@@ -38,7 +38,7 @@ jobs:
 
       - name: Commit files
         env:
-          CI_USER: 0x6f736f646f"
+          CI_USER: "0x6f736f646f"
           CI_EMAIL: "blackd0t@protonmail.com"
         run: |
           git config --local user.email "$CI_EMAIL"
