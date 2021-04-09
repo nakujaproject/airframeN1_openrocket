@@ -42,7 +42,7 @@ $ cd airframe_openrocket
 
 3. Move over to the materials tab and add the material you are intending to use if it is not included.
 
-![Material config](img\configMaterial.png)
+![Material config](img/configMaterial.png)
 
 4. Get the motor thrust curves from Nakuja Propulsion Team for N1 motor
 
