@@ -12,6 +12,8 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+        with:
+          fetch-depth: 0 # 👈 Required to retrieve git history for changelog
 
       - name: Create changelog text
         id: changelog
@@ -29,12 +31,5 @@ jobs:
           release_name: Release ${{ github.ref }}
           body: ${{ steps.changelog.outputs.changes }}
 
-      - name: Generate CHANGELOG
-        uses: danpetitt/changelog-file-generator@v1.1.3
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          exclude: 'perf,other,breaking'
-          file: './CHANGELOG.md'
-          section: '## Release: {{ GITHUB_REF }}'
-          files_to_commit: './CHANGELOG.md'
-          branch: main
+      - name: Gitmoji Changelog Action
+        uses: MarkLyck/gitmoji-changelog-action@1.0.2
