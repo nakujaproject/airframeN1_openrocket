@@ -21,7 +21,7 @@
             <Stage3Mass>0.0</Stage3Mass>
             <Stage2Mass>0.0</Stage2Mass>
             <Stage1Mass>0.0</Stage1Mass>
-            <Stage3CG>284.8640546758165</Stage3CG>
+            <Stage3CG>311.0954327908837</Stage3CG>
             <Stage2CGAlone>0.0</Stage2CGAlone>
             <Stage1CGAlone>0.0</Stage1CGAlone>
             <Stage321CG>0.0</Stage321CG>
@@ -103,20 +103,20 @@
                     <ShoulderOD>50.0</ShoulderOD>
                 </NoseCone>
                 <BodyTube>
-                    <KnownMass>68.54377117084663</KnownMass>
+                    <KnownMass>53.31182202176962</KnownMass>
                     <Density>1300.0</Density>
                     <Material>PLA</Material>
                     <Name>Body tube</Name>
                     <KnownCG>0.0</KnownCG>
                     <UseKnownCG>0</UseKnownCG>
                     <Xb>0.0</Xb>
-                    <CalcMass>68.54377117084663</CalcMass>
-                    <CalcCG>90.0</CalcCG>
+                    <CalcMass>53.31182202176962</CalcMass>
+                    <CalcCG>70.0</CalcCG>
                     <DensityType>0</DensityType>
                     <RadialLoc>0.0</RadialLoc>
                     <RadialAngle>0.0</RadialAngle>
                     <LocationMode>0</LocationMode>
-                    <Len>180.0</Len>
+                    <Len>140.0</Len>
                     <FinishCode>2</FinishCode>
                     <SerialNo>4</SerialNo>
                     <OD>53.6</OD>
@@ -150,9 +150,9 @@
                             <Density>0.0</Density>
                             <Material></Material>
                             <Name>Altimeter</Name>
-                            <KnownCG>5.000000000000009</KnownCG>
+                            <KnownCG>6.000000000000007</KnownCG>
                             <UseKnownCG>1</UseKnownCG>
-                            <Xb>5.000000000000009</Xb>
+                            <Xb>6.000000000000007</Xb>
                             <CalcMass>0.0</CalcMass>
                             <CalcCG>0.0</CalcCG>
                             <DensityType>0</DensityType>
@@ -165,14 +165,14 @@
                             <TypeCode>0</TypeCode>
                         </MassObject>
                         <BodyTube>
-                            <KnownMass>19.6879841689288</KnownMass>
+                            <KnownMass>5.287300435991629</KnownMass>
                             <Density>680.0</Density>
                             <Material>Cardboard</Material>
                             <Name>Electronics bay</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
-                            <Xb>75.0</Xb>
-                            <CalcMass>19.6879841689288</CalcMass>
+                            <Xb>34.0</Xb>
+                            <CalcMass>5.287300435991629</CalcMass>
                             <CalcCG>50.0</CalcCG>
                             <DensityType>0</DensityType>
                             <RadialLoc>0.0</RadialLoc>
@@ -181,10 +181,10 @@
                             <Len>100.0</Len>
                             <FinishCode>0</FinishCode>
                             <SerialNo>7</SerialNo>
-                            <OD>53.0</OD>
-                            <ID>49.4</ID>
+                            <OD>50.0</OD>
+                            <ID>49.0</ID>
                             <IsMotorMount>0</IsMotorMount>
-                            <MotorDia>49.4</MotorDia>
+                            <MotorDia>49.0</MotorDia>
                             <EngineOverhang>0.0</EngineOverhang>
                             <IsInsideTube>1</IsInsideTube>
                             <AttachedParts/>
@@ -192,20 +192,20 @@
                     </AttachedParts>
                 </BodyTube>
                 <BodyTube>
-                    <KnownMass>38.07987287269258</KnownMass>
+                    <KnownMass>57.11980930903889</KnownMass>
                     <Density>1300.0</Density>
                     <Material>PLA</Material>
                     <Name>Extra trube</Name>
                     <KnownCG>0.0</KnownCG>
                     <UseKnownCG>0</UseKnownCG>
                     <Xb>0.0</Xb>
-                    <CalcMass>38.07987287269258</CalcMass>
-                    <CalcCG>50.0</CalcCG>
+                    <CalcMass>57.11980930903889</CalcMass>
+                    <CalcCG>75.0</CalcCG>
                     <DensityType>0</DensityType>
                     <RadialLoc>0.0</RadialLoc>
                     <RadialAngle>0.0</RadialAngle>
                     <LocationMode>0</LocationMode>
-                    <Len>100.0</Len>
+                    <Len>150.0</Len>
                     <FinishCode>2</FinishCode>
                     <SerialNo>8</SerialNo>
                     <OD>53.6</OD>
@@ -237,20 +237,20 @@
                     </AttachedParts>
                 </BodyTube>
                 <BodyTube>
-                    <KnownMass>57.11980930903889</KnownMass>
+                    <KnownMass>95.19968218173152</KnownMass>
                     <Density>1300.0</Density>
                     <Material>PLA</Material>
                     <Name>Tail</Name>
                     <KnownCG>0.0</KnownCG>
                     <UseKnownCG>0</UseKnownCG>
                     <Xb>0.0</Xb>
-                    <CalcMass>57.11980930903889</CalcMass>
-                    <CalcCG>75.0</CalcCG>
+                    <CalcMass>95.19968218173152</CalcMass>
+                    <CalcCG>125.0</CalcCG>
                     <DensityType>0</DensityType>
                     <RadialLoc>0.0</RadialLoc>
                     <RadialAngle>0.0</RadialAngle>
                     <LocationMode>0</LocationMode>
-                    <Len>150.0</Len>
+                    <Len>250.0</Len>
                     <FinishCode>2</FinishCode>
                     <SerialNo>10</SerialNo>
                     <OD>53.6</OD>
@@ -298,7 +298,7 @@
                             <Name>Launch lug</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
-                            <Xb>9.999999999999988</Xb>
+                            <Xb>59.99999999999999</Xb>
                             <CalcMass>2.602369690527641</CalcMass>
                             <CalcCG>15.0</CalcCG>
                             <DensityType>0</DensityType>
@@ -312,20 +312,20 @@
                             <ID>10.0</ID>
                         </LaunchLug>
                         <BodyTube>
-                            <KnownMass>20.011945203367024</KnownMass>
+                            <KnownMass>38.022695886397344</KnownMass>
                             <Density>1300.0</Density>
                             <Material>PLA</Material>
                             <Name>Motor bracket</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
                             <Xb>-0.0</Xb>
-                            <CalcMass>20.011945203367024</CalcMass>
-                            <CalcCG>50.0</CalcCG>
+                            <CalcMass>38.022695886397344</CalcMass>
+                            <CalcCG>95.0</CalcCG>
                             <DensityType>0</DensityType>
                             <RadialLoc>0.0</RadialLoc>
                             <RadialAngle>0.0</RadialAngle>
                             <LocationMode>2</LocationMode>
-                            <Len>100.0</Len>
+                            <Len>190.0</Len>
                             <FinishCode>0</FinishCode>
                             <SerialNo>13</SerialNo>
                             <OD>50.0</OD>
@@ -343,7 +343,7 @@
                             <Name>Engine block</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
-                            <Xb>100.0</Xb>
+                            <Xb>190.0</Xb>
                             <CalcMass>25.525440310417075</CalcMass>
                             <CalcCG>5.0</CalcCG>
                             <DensityType>0</DensityType>
