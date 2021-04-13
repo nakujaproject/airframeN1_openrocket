@@ -4,6 +4,10 @@
 
 ### 1. Added the Nakuja propulsion expected F46-P motor to check for the simulations results
 
+## 11-04-2021 Details
+
+### 1. Added the Nakuja propulsion expected F46-P motor to check for the simulations results
+
 ## 09-04-2021 Details
 
 ### 1. Added three motors and the simulation results are here. I have used 4 models. The G74-W is the highest expected outcome. The F37-6 motor is the expected outcome. E15-7 is the baseline outcome, which should do better than it. B1-P is the latest motor tested by the propulsion team
