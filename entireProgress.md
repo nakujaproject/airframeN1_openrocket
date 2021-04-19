@@ -1,5 +1,17 @@
 # Progress
 
+## 19-04-2021 Details
+
+### 1. Simulated with Test done on Friday 16th April 2020
+
+### 2. The motor specs are
+
+![Motor configs](img/motors.png)
+
+### 3. The simulation results are
+
+![Simulation results](img/simResults.png)
+
 ## 11-04-2021 Details
 
 ### 1. Added the Nakuja propulsion expected F46-P motor to check for the simulations results
