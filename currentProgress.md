@@ -1,11 +1,13 @@
 # Progress
 
-## 13-04-2021 Details
+## 19-04-2021 Details
 
-### 1. Added the Nakuja propulsion expected F87-P and G168-P motor to check for the simulations results
+### 1. Simulated with Test done on Friday 16th April 2020
 
-### 2. Changed the airframe height to 1.1m to maintain stability
+### 2. The motor specs are
 
-### 3. Increase nose cone lenghth
+![Motor configs](img/motors.png)
 
-### 4. Increases another body tube to maintain stability
+### 3. The simulation results are
+
+![Simulation results](img/simResults.png)
