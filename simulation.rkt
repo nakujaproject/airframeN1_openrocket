@@ -17,11 +17,11 @@
             <ScrollPosYEdit>0</ScrollPosYEdit>
             <ThreeDFlags>0</ThreeDFlags>
             <ThreeDFlagsEdit>0</ThreeDFlagsEdit>
-            <LastSerialNumber>17</LastSerialNumber>
+            <LastSerialNumber>15</LastSerialNumber>
             <Stage3Mass>0.0</Stage3Mass>
             <Stage2Mass>0.0</Stage2Mass>
             <Stage1Mass>0.0</Stage1Mass>
-            <Stage3CG>536.313105695703</Stage3CG>
+            <Stage3CG>479.4373662423873</Stage3CG>
             <Stage2CGAlone>0.0</Stage2CGAlone>
             <Stage1CGAlone>0.0</Stage1CGAlone>
             <Stage321CG>0.0</Stage321CG>
@@ -46,21 +46,21 @@
                     <LocationMode>0</LocationMode>
                     <Len>250.0</Len>
                     <FinishCode>2</FinishCode>
-                    <SerialNo>1</SerialNo>
+                    <SerialNo>0</SerialNo>
                     <ShapeCode>5</ShapeCode>
                     <ConstructionType>1</ConstructionType>
                     <WallThickness>1.8000000000000003</WallThickness>
                     <ShapeParameter>1.0</ShapeParameter>
                     <AttachedParts>
                         <Parachute>
-                            <KnownMass>106.64202869698073</KnownMass>
+                            <KnownMass>34.855926535897936</KnownMass>
                             <Density>0.004</Density>
                             <Material>Polyethylene (heavy)</Material>
                             <Name>Parachute</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
                             <Xb>-0.0</Xb>
-                            <CalcMass>106.64202869698073</CalcMass>
+                            <CalcMass>34.855926535897936</CalcMass>
                             <CalcCG>60.0</CalcCG>
                             <DensityType>1</DensityType>
                             <RadialLoc>0.0</RadialLoc>
@@ -68,11 +68,11 @@
                             <LocationMode>2</LocationMode>
                             <Len>120.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>2</SerialNo>
-                            <Dia>1782.0</Dia>
+                            <SerialNo>1</SerialNo>
+                            <Dia>1000.0</Dia>
                             <ShroudLineCount>8</ShroudLineCount>
                             <Thickness>0.0</Thickness>
-                            <ShroudLineLen>200.0</ShroudLineLen>
+                            <ShroudLineLen>100.0</ShroudLineLen>
                             <ChuteCount>1</ChuteCount>
                             <ShroudLineMassPerMM>0.0043</ShroudLineMassPerMM>
                             <ShroudLineMaterial>Elastic cord (flat 6 mm, 1/4 in)</ShroudLineMaterial>
@@ -94,7 +94,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>35.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>3</SerialNo>
+                            <SerialNo>2</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
                     </AttachedParts>
@@ -118,7 +118,7 @@
                     <LocationMode>0</LocationMode>
                     <Len>180.0</Len>
                     <FinishCode>2</FinishCode>
-                    <SerialNo>4</SerialNo>
+                    <SerialNo>3</SerialNo>
                     <OD>53.6</OD>
                     <ID>50.0</ID>
                     <IsMotorMount>0</IsMotorMount>
@@ -142,7 +142,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>35.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>5</SerialNo>
+                            <SerialNo>4</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
                         <MassObject>
@@ -161,7 +161,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>120.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>6</SerialNo>
+                            <SerialNo>5</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
                         <BodyTube>
@@ -180,7 +180,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>120.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>7</SerialNo>
+                            <SerialNo>6</SerialNo>
                             <OD>50.0</OD>
                             <ID>48.0</ID>
                             <IsMotorMount>0</IsMotorMount>
@@ -205,7 +205,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>5.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>8</SerialNo>
+                            <SerialNo>7</SerialNo>
                             <OD>50.0</OD>
                             <ID>0.0</ID>
                             <UsageCode>2</UsageCode>
@@ -229,32 +229,7 @@
                     <LocationMode>0</LocationMode>
                     <Len>200.0</Len>
                     <FinishCode>2</FinishCode>
-                    <SerialNo>9</SerialNo>
-                    <OD>53.6</OD>
-                    <ID>50.0</ID>
-                    <IsMotorMount>0</IsMotorMount>
-                    <MotorDia>50.0</MotorDia>
-                    <EngineOverhang>0.0</EngineOverhang>
-                    <IsInsideTube>0</IsInsideTube>
-                    <AttachedParts/>
-                </BodyTube>
-                <BodyTube>
-                    <KnownMass>76.15974574538517</KnownMass>
-                    <Density>1300.0</Density>
-                    <Material>PLA</Material>
-                    <Name>Extra trube</Name>
-                    <KnownCG>0.0</KnownCG>
-                    <UseKnownCG>0</UseKnownCG>
-                    <Xb>0.0</Xb>
-                    <CalcMass>76.15974574538517</CalcMass>
-                    <CalcCG>100.0</CalcCG>
-                    <DensityType>0</DensityType>
-                    <RadialLoc>0.0</RadialLoc>
-                    <RadialAngle>0.0</RadialAngle>
-                    <LocationMode>0</LocationMode>
-                    <Len>200.0</Len>
-                    <FinishCode>2</FinishCode>
-                    <SerialNo>10</SerialNo>
+                    <SerialNo>8</SerialNo>
                     <OD>53.6</OD>
                     <ID>50.0</ID>
                     <IsMotorMount>0</IsMotorMount>
@@ -278,7 +253,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>200.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>11</SerialNo>
+                            <SerialNo>9</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
                     </AttachedParts>
@@ -299,7 +274,7 @@
                     <LocationMode>0</LocationMode>
                     <Len>250.0</Len>
                     <FinishCode>2</FinishCode>
-                    <SerialNo>12</SerialNo>
+                    <SerialNo>10</SerialNo>
                     <OD>53.6</OD>
                     <ID>50.0</ID>
                     <IsMotorMount>0</IsMotorMount>
@@ -308,26 +283,26 @@
                     <IsInsideTube>0</IsInsideTube>
                     <AttachedParts>
                         <FinSet>
-                            <KnownMass>33.69600000000001</KnownMass>
+                            <KnownMass>46.332</KnownMass>
                             <Density>1300.0</Density>
                             <Material>PLA</Material>
                             <Name>Trapezoidal fin set</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
                             <Xb>-0.0</Xb>
-                            <CalcMass>33.69600000000001</CalcMass>
-                            <CalcCG>47.18333333333333</CalcCG>
+                            <CalcMass>46.332</CalcMass>
+                            <CalcCG>47.18333333333335</CalcCG>
                             <DensityType>0</DensityType>
                             <RadialLoc>0.0</RadialLoc>
                             <RadialAngle>0.0</RadialAngle>
                             <LocationMode>2</LocationMode>
                             <Len>0.0</Len>
                             <FinishCode>2</FinishCode>
-                            <SerialNo>13</SerialNo>
+                            <SerialNo>11</SerialNo>
                             <FinCount>3</FinCount>
                             <RootChord>70.0</RootChord>
                             <TipChord>50.0</TipChord>
-                            <SemiSpan>40.0</SemiSpan>
+                            <SemiSpan>55.0</SemiSpan>
                             <SweepDistance>35.8</SweepDistance>
                             <Thickness>3.6000000000000005</Thickness>
                             <ShapeCode>0</ShapeCode>
@@ -354,7 +329,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>30.0</Len>
                             <FinishCode>2</FinishCode>
-                            <SerialNo>14</SerialNo>
+                            <SerialNo>12</SerialNo>
                             <OD>13.600000000000001</OD>
                             <ID>10.0</ID>
                         </LaunchLug>
@@ -374,7 +349,7 @@
                             <LocationMode>2</LocationMode>
                             <Len>190.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>15</SerialNo>
+                            <SerialNo>13</SerialNo>
                             <OD>50.0</OD>
                             <ID>48.0</ID>
                             <IsMotorMount>1</IsMotorMount>
@@ -399,7 +374,7 @@
                             <LocationMode>2</LocationMode>
                             <Len>10.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>16</SerialNo>
+                            <SerialNo>14</SerialNo>
                             <OD>50.0</OD>
                             <ID>0.0</ID>
                             <UsageCode>2</UsageCode>
@@ -421,7 +396,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>5.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>17</SerialNo>
+                            <SerialNo>15</SerialNo>
                             <OD>50.0</OD>
                             <ID>40.0</ID>
                             <UsageCode>0</UsageCode>
