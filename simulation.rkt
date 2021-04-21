@@ -17,11 +17,11 @@
             <ScrollPosYEdit>0</ScrollPosYEdit>
             <ThreeDFlags>0</ThreeDFlags>
             <ThreeDFlagsEdit>0</ThreeDFlagsEdit>
-            <LastSerialNumber>15</LastSerialNumber>
+            <LastSerialNumber>16</LastSerialNumber>
             <Stage3Mass>0.0</Stage3Mass>
             <Stage2Mass>0.0</Stage2Mass>
             <Stage1Mass>0.0</Stage1Mass>
-            <Stage3CG>479.4373662423873</Stage3CG>
+            <Stage3CG>480.185889136736</Stage3CG>
             <Stage2CGAlone>0.0</Stage2CGAlone>
             <Stage1CGAlone>0.0</Stage1CGAlone>
             <Stage321CG>0.0</Stage321CG>
@@ -46,7 +46,7 @@
                     <LocationMode>0</LocationMode>
                     <Len>250.0</Len>
                     <FinishCode>2</FinishCode>
-                    <SerialNo>0</SerialNo>
+                    <SerialNo>1</SerialNo>
                     <ShapeCode>5</ShapeCode>
                     <ConstructionType>1</ConstructionType>
                     <WallThickness>1.8000000000000003</WallThickness>
@@ -68,7 +68,7 @@
                             <LocationMode>2</LocationMode>
                             <Len>120.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>1</SerialNo>
+                            <SerialNo>2</SerialNo>
                             <Dia>1000.0</Dia>
                             <ShroudLineCount>8</ShroudLineCount>
                             <Thickness>0.0</Thickness>
@@ -94,7 +94,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>35.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>2</SerialNo>
+                            <SerialNo>3</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
                     </AttachedParts>
@@ -118,7 +118,7 @@
                     <LocationMode>0</LocationMode>
                     <Len>180.0</Len>
                     <FinishCode>2</FinishCode>
-                    <SerialNo>3</SerialNo>
+                    <SerialNo>4</SerialNo>
                     <OD>53.6</OD>
                     <ID>50.0</ID>
                     <IsMotorMount>0</IsMotorMount>
@@ -127,7 +127,7 @@
                     <IsInsideTube>0</IsInsideTube>
                     <AttachedParts>
                         <MassObject>
-                            <KnownMass>5.800000000000001</KnownMass>
+                            <KnownMass>2.9000000000000004</KnownMass>
                             <Density>0.0</Density>
                             <Material></Material>
                             <Name>Shock cord</Name>
@@ -142,7 +142,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>35.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>4</SerialNo>
+                            <SerialNo>5</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
                         <MassObject>
@@ -161,7 +161,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>120.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>5</SerialNo>
+                            <SerialNo>6</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
                         <BodyTube>
@@ -180,7 +180,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>120.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>6</SerialNo>
+                            <SerialNo>7</SerialNo>
                             <OD>50.0</OD>
                             <ID>48.0</ID>
                             <IsMotorMount>0</IsMotorMount>
@@ -205,7 +205,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>5.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>7</SerialNo>
+                            <SerialNo>8</SerialNo>
                             <OD>50.0</OD>
                             <ID>0.0</ID>
                             <UsageCode>2</UsageCode>
@@ -229,7 +229,7 @@
                     <LocationMode>0</LocationMode>
                     <Len>200.0</Len>
                     <FinishCode>2</FinishCode>
-                    <SerialNo>8</SerialNo>
+                    <SerialNo>9</SerialNo>
                     <OD>53.6</OD>
                     <ID>50.0</ID>
                     <IsMotorMount>0</IsMotorMount>
@@ -253,7 +253,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>200.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>9</SerialNo>
+                            <SerialNo>10</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
                     </AttachedParts>
@@ -274,7 +274,7 @@
                     <LocationMode>0</LocationMode>
                     <Len>250.0</Len>
                     <FinishCode>2</FinishCode>
-                    <SerialNo>10</SerialNo>
+                    <SerialNo>11</SerialNo>
                     <OD>53.6</OD>
                     <ID>50.0</ID>
                     <IsMotorMount>0</IsMotorMount>
@@ -298,7 +298,7 @@
                             <LocationMode>2</LocationMode>
                             <Len>0.0</Len>
                             <FinishCode>2</FinishCode>
-                            <SerialNo>11</SerialNo>
+                            <SerialNo>12</SerialNo>
                             <FinCount>3</FinCount>
                             <RootChord>70.0</RootChord>
                             <TipChord>50.0</TipChord>
@@ -329,7 +329,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>30.0</Len>
                             <FinishCode>2</FinishCode>
-                            <SerialNo>12</SerialNo>
+                            <SerialNo>13</SerialNo>
                             <OD>13.600000000000001</OD>
                             <ID>10.0</ID>
                         </LaunchLug>
@@ -349,7 +349,7 @@
                             <LocationMode>2</LocationMode>
                             <Len>190.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>13</SerialNo>
+                            <SerialNo>14</SerialNo>
                             <OD>50.0</OD>
                             <ID>48.0</ID>
                             <IsMotorMount>1</IsMotorMount>
@@ -374,7 +374,7 @@
                             <LocationMode>2</LocationMode>
                             <Len>10.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>14</SerialNo>
+                            <SerialNo>15</SerialNo>
                             <OD>50.0</OD>
                             <ID>0.0</ID>
                             <UsageCode>2</UsageCode>
@@ -396,7 +396,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>5.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>15</SerialNo>
+                            <SerialNo>16</SerialNo>
                             <OD>50.0</OD>
                             <ID>40.0</ID>
                             <UsageCode>0</UsageCode>
