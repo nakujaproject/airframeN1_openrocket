@@ -1,5 +1,9 @@
 # Changelog
 
+## [v1.0.5](https://github.com/nakujaproject/airframe_openrocket/tree/v1.0.5) (2021-04-28)
+
+[Full Changelog](https://github.com/nakujaproject/airframe_openrocket/compare/v1.0.4...v1.0.5)
+
 ## [v1.0.4](https://github.com/nakujaproject/airframe_openrocket/tree/v1.0.4) (2021-04-09)
 
 [Full Changelog](https://github.com/nakujaproject/airframe_openrocket/compare/latest...v1.0.4)
@@ -31,7 +35,7 @@
 
 ## [v1.0.0](https://github.com/nakujaproject/airframe_openrocket/tree/v1.0.0) (2021-02-20)
 
-[Full Changelog](https://github.com/nakujaproject/airframe_openrocket/compare/45e1e3e831cf6e2cc70dd94fca8974ee306c763f...v1.0.0)
+[Full Changelog](https://github.com/nakujaproject/airframe_openrocket/compare/9914f459931217d71cbec51aebc1c0c18476f304...v1.0.0)
 
 
 
