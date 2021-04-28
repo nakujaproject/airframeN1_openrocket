@@ -82,8 +82,8 @@ Our motor config results are:
 
 To get the most accurate model, you should weigh every component. And once components are assembled, you should weigh each section to check your work, comparing it to OpenRocket's calculated masses
 
-![Nakuja N1 Motor](img\NakujaMotor.png)
+![Nakuja N1 Motor](img/NakujaMotor.png)
 
-![Simulation problem encountered](img\simulationProblem.png)
+![Simulation problem encountered](img/simulationProblem.png)
 
-![Simulation Results](img\simulationResults.png)
+![Simulation Results](img/simulationResults.png)
