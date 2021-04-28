@@ -12,7 +12,7 @@
 
 ### 1. Added three motors and the simulation results are here. I have used 4 models. The G74-W is the highest expected outcome. The F37-6 motor is the expected outcome. E15-7 is the baseline outcome, which should do better than it. B1-P is the latest motor tested by the propulsion team
 
-![Simulation Results](img/simulationResults.png)
+![Simulation Results](https://github.com/nakujaproject/airframe_openrocket/blob/c7d83b9b3b7be03e2462ef491f45bf2474f17247/img/simulationResults.png)
 
 ### 2. [F37-6 motor] Profiled the flight profile graph and the results are here. We can see that we have a range of 40m diamter circle on where the rocket will hit the ground from the launch site
 
