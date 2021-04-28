@@ -17,11 +17,11 @@
             <ScrollPosYEdit>0</ScrollPosYEdit>
             <ThreeDFlags>0</ThreeDFlags>
             <ThreeDFlagsEdit>0</ThreeDFlagsEdit>
-            <LastSerialNumber>16</LastSerialNumber>
+            <LastSerialNumber>18</LastSerialNumber>
             <Stage3Mass>0.0</Stage3Mass>
             <Stage2Mass>0.0</Stage2Mass>
             <Stage1Mass>0.0</Stage1Mass>
-            <Stage3CG>480.185889136736</Stage3CG>
+            <Stage3CG>516.3001509844433</Stage3CG>
             <Stage2CGAlone>0.0</Stage2CGAlone>
             <Stage1CGAlone>0.0</Stage1CGAlone>
             <Stage321CG>0.0</Stage321CG>
@@ -79,7 +79,7 @@
                             <DragCoefficient>0.65</DragCoefficient>
                         </Parachute>
                         <MassObject>
-                            <KnownMass>5.800000000000001</KnownMass>
+                            <KnownMass>0.8</KnownMass>
                             <Density>0.0</Density>
                             <Material></Material>
                             <Name>Shock cord</Name>
@@ -127,7 +127,7 @@
                     <IsInsideTube>0</IsInsideTube>
                     <AttachedParts>
                         <MassObject>
-                            <KnownMass>2.9000000000000004</KnownMass>
+                            <KnownMass>0.8</KnownMass>
                             <Density>0.0</Density>
                             <Material></Material>
                             <Name>Shock cord</Name>
@@ -214,20 +214,20 @@
                     </AttachedParts>
                 </BodyTube>
                 <BodyTube>
-                    <KnownMass>76.15974574538517</KnownMass>
+                    <KnownMass>57.11980930903889</KnownMass>
                     <Density>1300.0</Density>
                     <Material>PLA</Material>
                     <Name>Extra trube</Name>
                     <KnownCG>0.0</KnownCG>
                     <UseKnownCG>0</UseKnownCG>
                     <Xb>0.0</Xb>
-                    <CalcMass>76.15974574538517</CalcMass>
-                    <CalcCG>100.0</CalcCG>
+                    <CalcMass>57.11980930903889</CalcMass>
+                    <CalcCG>75.0</CalcCG>
                     <DensityType>0</DensityType>
                     <RadialLoc>0.0</RadialLoc>
                     <RadialAngle>0.0</RadialAngle>
                     <LocationMode>0</LocationMode>
-                    <Len>200.0</Len>
+                    <Len>150.0</Len>
                     <FinishCode>2</FinishCode>
                     <SerialNo>9</SerialNo>
                     <OD>53.6</OD>
@@ -251,12 +251,57 @@
                             <RadialLoc>0.0</RadialLoc>
                             <RadialAngle>0.0</RadialAngle>
                             <LocationMode>0</LocationMode>
-                            <Len>200.0</Len>
+                            <Len>150.0</Len>
                             <FinishCode>0</FinishCode>
                             <SerialNo>10</SerialNo>
                             <TypeCode>0</TypeCode>
                         </MassObject>
+                        <LaunchLug>
+                            <KnownMass>2.602369690527641</KnownMass>
+                            <Density>1300.0</Density>
+                            <Material>PLA</Material>
+                            <Name>Launch lug</Name>
+                            <KnownCG>0.0</KnownCG>
+                            <UseKnownCG>0</UseKnownCG>
+                            <Xb>30.0</Xb>
+                            <CalcMass>2.602369690527641</CalcMass>
+                            <CalcCG>15.0</CalcCG>
+                            <DensityType>0</DensityType>
+                            <RadialLoc>0.0</RadialLoc>
+                            <RadialAngle>1.0471975511965976</RadialAngle>
+                            <LocationMode>2</LocationMode>
+                            <Len>30.0</Len>
+                            <FinishCode>2</FinishCode>
+                            <SerialNo>11</SerialNo>
+                            <OD>13.600000000000001</OD>
+                            <ID>10.0</ID>
+                        </LaunchLug>
                     </AttachedParts>
+                </BodyTube>
+                <BodyTube>
+                    <KnownMass>57.11980930903889</KnownMass>
+                    <Density>1300.0</Density>
+                    <Material>PLA</Material>
+                    <Name>Extra trube</Name>
+                    <KnownCG>0.0</KnownCG>
+                    <UseKnownCG>0</UseKnownCG>
+                    <Xb>0.0</Xb>
+                    <CalcMass>57.11980930903889</CalcMass>
+                    <CalcCG>75.0</CalcCG>
+                    <DensityType>0</DensityType>
+                    <RadialLoc>0.0</RadialLoc>
+                    <RadialAngle>0.0</RadialAngle>
+                    <LocationMode>0</LocationMode>
+                    <Len>150.0</Len>
+                    <FinishCode>2</FinishCode>
+                    <SerialNo>12</SerialNo>
+                    <OD>53.6</OD>
+                    <ID>50.0</ID>
+                    <IsMotorMount>0</IsMotorMount>
+                    <MotorDia>50.0</MotorDia>
+                    <EngineOverhang>0.0</EngineOverhang>
+                    <IsInsideTube>0</IsInsideTube>
+                    <AttachedParts/>
                 </BodyTube>
                 <BodyTube>
                     <KnownMass>95.19968218173152</KnownMass>
@@ -274,7 +319,7 @@
                     <LocationMode>0</LocationMode>
                     <Len>250.0</Len>
                     <FinishCode>2</FinishCode>
-                    <SerialNo>11</SerialNo>
+                    <SerialNo>13</SerialNo>
                     <OD>53.6</OD>
                     <ID>50.0</ID>
                     <IsMotorMount>0</IsMotorMount>
@@ -283,26 +328,26 @@
                     <IsInsideTube>0</IsInsideTube>
                     <AttachedParts>
                         <FinSet>
-                            <KnownMass>46.332</KnownMass>
+                            <KnownMass>50.54400000000001</KnownMass>
                             <Density>1300.0</Density>
                             <Material>PLA</Material>
                             <Name>Trapezoidal fin set</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
                             <Xb>-0.0</Xb>
-                            <CalcMass>46.332</CalcMass>
-                            <CalcCG>47.18333333333335</CalcCG>
+                            <CalcMass>50.54400000000001</CalcMass>
+                            <CalcCG>47.18333333333334</CalcCG>
                             <DensityType>0</DensityType>
                             <RadialLoc>0.0</RadialLoc>
                             <RadialAngle>0.0</RadialAngle>
                             <LocationMode>2</LocationMode>
                             <Len>0.0</Len>
                             <FinishCode>2</FinishCode>
-                            <SerialNo>12</SerialNo>
+                            <SerialNo>14</SerialNo>
                             <FinCount>3</FinCount>
                             <RootChord>70.0</RootChord>
                             <TipChord>50.0</TipChord>
-                            <SemiSpan>55.0</SemiSpan>
+                            <SemiSpan>60.0</SemiSpan>
                             <SweepDistance>35.8</SweepDistance>
                             <Thickness>3.6000000000000005</Thickness>
                             <ShapeCode>0</ShapeCode>
@@ -320,16 +365,16 @@
                             <Name>Launch lug</Name>
                             <KnownCG>0.0</KnownCG>
                             <UseKnownCG>0</UseKnownCG>
-                            <Xb>59.99999999999999</Xb>
+                            <Xb>100.0</Xb>
                             <CalcMass>2.602369690527641</CalcMass>
                             <CalcCG>15.0</CalcCG>
                             <DensityType>0</DensityType>
                             <RadialLoc>0.0</RadialLoc>
                             <RadialAngle>1.0471975511965976</RadialAngle>
-                            <LocationMode>0</LocationMode>
+                            <LocationMode>2</LocationMode>
                             <Len>30.0</Len>
                             <FinishCode>2</FinishCode>
-                            <SerialNo>13</SerialNo>
+                            <SerialNo>15</SerialNo>
                             <OD>13.600000000000001</OD>
                             <ID>10.0</ID>
                         </LaunchLug>
@@ -349,7 +394,7 @@
                             <LocationMode>2</LocationMode>
                             <Len>190.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>14</SerialNo>
+                            <SerialNo>16</SerialNo>
                             <OD>50.0</OD>
                             <ID>48.0</ID>
                             <IsMotorMount>1</IsMotorMount>
@@ -374,7 +419,7 @@
                             <LocationMode>2</LocationMode>
                             <Len>10.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>15</SerialNo>
+                            <SerialNo>17</SerialNo>
                             <OD>50.0</OD>
                             <ID>0.0</ID>
                             <UsageCode>2</UsageCode>
@@ -396,7 +441,7 @@
                             <LocationMode>0</LocationMode>
                             <Len>5.0</Len>
                             <FinishCode>0</FinishCode>
-                            <SerialNo>16</SerialNo>
+                            <SerialNo>18</SerialNo>
                             <OD>50.0</OD>
                             <ID>40.0</ID>
                             <UsageCode>0</UsageCode>
