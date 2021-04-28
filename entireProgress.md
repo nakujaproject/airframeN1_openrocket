@@ -16,24 +16,24 @@
 
 ### 2. [F37-6 motor] Profiled the flight profile graph and the results are here. We can see that we have a range of 40m diamter circle on where the rocket will hit the ground from the launch site
 
-![FLight Profile](img/flightProfileGraph.png)
+![FLight Profile](https://github.com/nakujaproject/airframe_openrocket/blob/c7d83b9b3b7be03e2462ef491f45bf2474f17247/img/flightProfileGraph.png)
 
 ### 3. [F37-6 motor] Added the comparision of Reynolds number with time as the time changes
 
-![Reynolds number comparison](img/reynoldsNumberGraph.png)
+![Reynolds number comparison](https://github.com/nakujaproject/airframe_openrocket/blob/c7d83b9b3b7be03e2462ef491f45bf2474f17247/img/reynoldsNumberGraph.png)
 
 ### 4. [F37-6 motor] Added the stability results from the flight time. We can clearly see our values are greater than 1.5 which is the minimu required stability of the rocket
 
-![Stability Results](img/stabilityGraph.png)
+![Stability Results](https://github.com/nakujaproject/airframe_openrocket/blob/c7d83b9b3b7be03e2462ef491f45bf2474f17247/img/stabilityGraph.png)
 
 ### 5. [F37-6 motor] Simulation results for the current motor configs are here. This shows the results from all the three motors in our test bench
 
-![Simulation Results](img/simulationResults.png)
+![Simulation Results](https://github.com/nakujaproject/airframe_openrocket/blob/c7d83b9b3b7be03e2462ef491f45bf2474f17247/img/simulationResults.png)
 
 ### 6. [F37-6 motor] Vertical motion graph results are here. This represents vertical accelration and vertical velocity of the rocket during its time of flight
 
-![Vertical Motion](img/verticalMotionGraph.png)
+![Vertical Motion](https://github.com/nakujaproject/airframe_openrocket/blob/c7d83b9b3b7be03e2462ef491f45bf2474f17247/img/verticalMotionGraph.png)
 
 ### 7. [F37-6 motor] Model rocket verion is here. Added the electroncics bay as an inner tube in order to hold the altimeter
 
-![Open ROcket Model](img/openrocketmodel.png)
+![Open ROcket Model](https://github.com/nakujaproject/airframe_openrocket/blob/c7d83b9b3b7be03e2462ef491f45bf2474f17247/img/openrocketmodel.png)
