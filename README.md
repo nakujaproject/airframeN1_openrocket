@@ -51,7 +51,7 @@ git clone https://github.com/nakujaproject/N1-motor.git
 # This is the folder that contains all the N1 motor rockets done it testing
 ```
 
-5. If you want to use the N1 motors created by the Nakuja Propulsion team, go to general settings then under the user defined curves add `N1-motor\test` directory, that we have just cloned, inside there.
+5. If you want to use the N1 motors created by the Nakuja Propulsion team, go to general settings then under the user defined curves add `N1-motor\` directory, that we have just cloned, inside there.
 
 ![Motor configurations](img/motorConfig.png)
 
